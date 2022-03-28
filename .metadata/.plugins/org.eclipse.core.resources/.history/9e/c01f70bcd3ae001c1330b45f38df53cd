@@ -1,0 +1,5 @@
+package ar.edu.asap.practica0.modelo;
+
+public class PiedraPapelTijeraFactory {
+
+}
