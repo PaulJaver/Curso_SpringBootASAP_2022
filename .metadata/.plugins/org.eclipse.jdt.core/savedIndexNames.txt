@@ -1,4 +1,2 @@
-INDEX VERSION 1.131+C:\Users\Pablo\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
-636879419.index
-1865797976.index
+INDEX VERSION 1.131+C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\.metadata\.plugins\org.eclipse.jdt.core
 3750807849.index
