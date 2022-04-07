@@ -1,42 +1,40 @@
 package ar.edu.asap.practica1.modelo;
 
-public class Piedra extends PiedraPapelTijeraFactory {
-
+public class Piedra extends PiedraPapelTieraFactory {
 	public Piedra() {
-		this("piedra",PiedraPapelTijeraFactory.PIEDRA);
-	}
-	
-	public Piedra(String nombre, int numero) {
-		super(nombre, numero);
+		this("piedra", PIEDRA );
 	}
 
-	@Override
-	public boolean isMe(int pNUm) {
-		return pNUm == PiedraPapelTijeraFactory.PIEDRA;
+	public Piedra(String pNom, int pNum) {
+		super(pNom, pNum);		
 	}
 
 	@Override
-	public int comparar(PiedraPapelTijeraFactory pPPTFact) {
+	public boolean isMe(int pNum) {
+		return pNum==PIEDRA;
+	}
 
-		int result=0;
-		
-		switch (pPPTFact.getNumero()) {
-		case PiedraPapelTijeraFactory.TIJERA:
-			result=1;
-			this.descripcionResultado = nombre + " le gana a " + pPPTFact.getNombre();
-			break;
-		case PiedraPapelTijeraFactory.PAPEL:
-			result=-1;
-			this.descripcionResultado = nombre + " pierde contra " + pPPTFact.getNombre();
+	@Override
+	public int comparar(PiedraPapelTieraFactory pPiedPapelTijera) {
+		int resul=0;
+		switch (pPiedPapelTijera.getNumero()) {
+		case TIJERA:
+		case LAGARTO:
+			resul=1;
+			this.descripcionREsultado = "piedra le gana a " + pPiedPapelTijera.getNombre();
 			break;
 			
-			default:
-				this.descripcionResultado = nombre + " empata con " + pPPTFact.getNombre();
-				break;
-		}
-		
-		return result;
-		
-	}
+        case PAPEL:
+        case SPOCK:
+			resul=-1;
+			this.descripcionREsultado = "piedra pierdió con " + pPiedPapelTijera.getNombre();
+			break;
 
+		default:
+			resul=0;
+			this.descripcionREsultado = "piedra empata con " + pPiedPapelTijera.getNombre();
+			break;
+		}
+		return resul;
+	}
 }
