@@ -109,7 +109,7 @@ public String toString() {
 }
 
 
-@Override
+@Override 
    public boolean isEmpty() {
 	   
 	   return codigo == 0                             &&
