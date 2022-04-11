@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Mi primer codigo con spring</title>
+<title>Mi primer codigo con Spring</title>
 </head>
 <body>
-    <h1>Hola mundo con Spring Framework </h1>
+   <h1>Hola Bienvenido a Spring Framework</h1>
 </body>
 </html>
