@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.AfterEach"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="com.domain.util.test.ConnectionManagerTest"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="com.domain.util.ConnectionManager"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
@@ -19,4 +18,21 @@
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.gabrielCode.model.Persona"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="org.apache.commons.logging.Log"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.Log"/>
+    <fullyQualifiedTypeName name="com.gabrielCode.repository.IPersona"/>
+    <fullyQualifiedTypeName name="com.gabrielCode.service.PersonaServiceImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="com.gabrielCode.DemoConsolaApplication"/>
+    <fullyQualifiedTypeName name="com.gabrielCode.service.IpersonaService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.gabrielCode.repository.PersonaRepoImpl1"/>
 </qualifiedTypeNameHistroy>

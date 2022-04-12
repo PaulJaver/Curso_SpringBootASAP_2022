@@ -12,6 +12,13 @@ import javax.persistence.Id;
 	@Column(name = "PER_NOMBRE", length = 50)
 	private String nombre;
 	
+	//constructores
+	public Persona(int pCod, String pNom) {
+		codigo = pCod;
+		nombre = pNom;
+	}
+	
+	
 	//accesors
 	public int getCodigo() {
 		return codigo;

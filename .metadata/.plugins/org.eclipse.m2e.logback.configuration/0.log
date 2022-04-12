@@ -2520,3 +2520,679 @@ java.net.URISyntaxException: Illegal character in path at index 31: file:/E:/Pab
 2022-04-11 00:15:52,712 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-04-11 00:15:52,715 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-11 00:15:52,716 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 00:15:52,716 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 12:41:18,122 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:41:18,124 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:41:18,125 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:41:18,126 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:41:43,310 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:41:43,312 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:41:43,314 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:41:43,315 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:43:44,146 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:43:44,174 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-11 12:43:44,186 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:43:44,187 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:03,854 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:45:03,859 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:03,860 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:45:03,862 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:07,379 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:45:07,380 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:07,384 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:45:07,386 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:38,257 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:45:38,260 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:38,262 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:45:38,263 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:45:49,571 [ForkJoinPool.commonPool-worker-33] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:142)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-04-11 12:51:08,549 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.com.dominio:HolaSpringFrameWork:0.0.1-SNAPSHOT @ C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\HolaSpringFrameWork\pom.xml.
+2022-04-11 12:51:10,241 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.19.RELEASE/spring-test-4.3.19.RELEASE.pom
+2022-04-11 12:51:10,551 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.19.RELEASE/spring-test-4.3.19.RELEASE.pom
+2022-04-11 12:51:10,732 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.19.RELEASE/spring-core-4.3.19.RELEASE.pom
+2022-04-11 12:51:10,929 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.19.RELEASE/spring-core-4.3.19.RELEASE.pom
+2022-04-11 12:51:11,168 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE.pom
+2022-04-11 12:51:11,378 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE.pom
+2022-04-11 12:51:11,562 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE.pom
+2022-04-11 12:51:11,767 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE.pom
+2022-04-11 12:51:11,950 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.pom
+2022-04-11 12:51:12,153 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.pom
+2022-04-11 12:51:12,337 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.12.RELEASE/spring-aspects-4.3.12.RELEASE.pom
+2022-04-11 12:51:12,561 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.12.RELEASE/spring-aspects-4.3.12.RELEASE.pom
+2022-04-11 12:51:12,746 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.pom
+2022-04-11 12:51:12,949 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.pom
+2022-04-11 12:51:13,131 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.4.0/mockito-core-4.4.0.pom
+2022-04-11 12:51:13,335 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.4.0/mockito-core-4.4.0.pom
+2022-04-11 12:51:13,518 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8.pom
+2022-04-11 12:51:13,742 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8.pom
+2022-04-11 12:51:13,926 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.8/byte-buddy-parent-1.12.8.pom
+2022-04-11 12:51:14,308 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.8/byte-buddy-parent-1.12.8.pom
+2022-04-11 12:51:14,500 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.8/byte-buddy-agent-1.12.8.pom
+2022-04-11 12:51:14,698 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.8/byte-buddy-agent-1.12.8.pom
+2022-04-11 12:51:14,909 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.12.RELEASE/spring-aspects-4.3.12.RELEASE.jar
+2022-04-11 12:51:15,083 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.4.0/mockito-core-4.4.0.jar
+2022-04-11 12:51:15,279 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE.jar
+2022-04-11 12:51:15,279 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar
+2022-04-11 12:51:15,279 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.19.RELEASE/spring-test-4.3.19.RELEASE.jar
+2022-04-11 12:51:15,431 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.12.RELEASE/spring-aspects-4.3.12.RELEASE.jar
+2022-04-11 12:51:15,830 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8.jar
+2022-04-11 12:51:16,172 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE.jar
+2022-04-11 12:51:16,221 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.4.0/mockito-core-4.4.0.jar
+2022-04-11 12:51:16,221 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.19.RELEASE/spring-test-4.3.19.RELEASE.jar
+2022-04-11 12:51:16,339 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar
+2022-04-11 12:51:16,352 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.8/byte-buddy-agent-1.12.8.jar
+2022-04-11 12:51:16,514 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8.jar
+2022-04-11 12:51:16,691 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.8/byte-buddy-agent-1.12.8.jar
+2022-04-11 12:51:18,480 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:51:18,483 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:51:18,485 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:51:18,486 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:51:19,449 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2022-04-11 12:51:20,255 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2022-04-11 12:51:20,347 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2022-04-11 12:51:21,058 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2022-04-11 12:51:21,664 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:51:21,666 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-11 12:51:21,677 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:51:21,678 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:51:21,696 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2022-04-11 12:51:22,087 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2022-04-11 12:51:22,806 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2022-04-11 12:51:23,286 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2022-04-11 12:51:23,672 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2022-04-11 12:51:24,397 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.19.RELEASE/spring-test-4.3.19.RELEASE-sources.jar
+2022-04-11 12:51:25,210 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.19.RELEASE/spring-test-4.3.19.RELEASE-sources.jar
+2022-04-11 12:51:25,344 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:4.3.19.RELEASE
+2022-04-11 12:51:26,052 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar
+2022-04-11 12:51:26,832 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar
+2022-04-11 12:51:26,885 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:4.3.12.RELEASE
+2022-04-11 12:51:27,625 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.12.RELEASE/spring-aspects-4.3.12.RELEASE-sources.jar
+2022-04-11 12:51:28,016 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/4.3.12.RELEASE/spring-aspects-4.3.12.RELEASE-sources.jar
+2022-04-11 12:51:28,202 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.12.RELEASE
+2022-04-11 12:51:28,919 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar
+2022-04-11 12:51:30,204 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar
+2022-04-11 12:51:30,270 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2022-04-11 12:51:30,973 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.4.0/mockito-core-4.4.0-sources.jar
+2022-04-11 12:51:31,797 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/4.4.0/mockito-core-4.4.0-sources.jar
+2022-04-11 12:51:31,856 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:4.4.0
+2022-04-11 12:51:32,573 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8-sources.jar
+2022-04-11 12:51:33,833 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8-sources.jar
+2022-04-11 12:51:33,882 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.8
+2022-04-11 12:51:34,605 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.8/byte-buddy-agent-1.12.8-sources.jar
+2022-04-11 12:51:35,252 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.12.8/byte-buddy-agent-1.12.8-sources.jar
+2022-04-11 12:51:35,316 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.12.8
+2022-04-11 12:51:35,563 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:51:35,565 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:51:35,566 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:51:35,567 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:52:02,466 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 12:52:02,466 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 12:52:02,469 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:52:02,470 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 12:52:02,472 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 12:52:02,472 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 12:52:02,473 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 12:53:01,040 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-11 12:53:09,385 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:53:09,394 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-11 12:53:09,401 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 12:53:09,402 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 13:05:57,577 [ForkJoinPool.commonPool-worker-5] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:142)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-04-11 13:10:45,841 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gabrielCode:DemoWeb:0.0.1-SNAPSHOT @ C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\pom.xml.
+2022-04-11 13:10:47,292 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-security/2.5.4/spring-boot-starter-security-2.5.4.pom
+2022-04-11 13:10:48,503 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.5.4/spring-boot-starter-security-2.5.4.pom
+2022-04-11 13:10:48,871 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.5.4/spring-boot-starter-security-2.5.4.pom
+2022-04-11 13:10:48,877 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/security/spring-security-config/5.5.6-SNAPSHOT/maven-metadata.xml
+2022-04-11 13:10:48,880 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:48,887 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:48,889 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/security/spring-security-config/5.5.6-SNAPSHOT/spring-security-config-5.5.6-SNAPSHOT.pom
+2022-04-11 13:10:48,892 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/security/spring-security-web/5.5.6-SNAPSHOT/maven-metadata.xml
+2022-04-11 13:10:48,894 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:48,901 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:48,902 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/security/spring-security-web/5.5.6-SNAPSHOT/spring-security-web-5.5.6-SNAPSHOT.pom
+2022-04-11 13:10:50,012 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:50,014 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:50,016 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:50,017 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:50,341 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 13:10:50,342 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 13:10:50,342 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 13:10:50,389 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 13:10:50,406 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 13:10:50,406 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 13:10:50,406 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 13:10:51,310 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-security/2.5.4/spring-boot-starter-security-2.5.4-sources.jar
+2022-04-11 13:10:52,059 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.5.4/spring-boot-starter-security-2.5.4-sources.jar
+2022-04-11 13:10:52,450 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.5.4/spring-boot-starter-security-2.5.4-sources.jar
+2022-04-11 13:10:52,514 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:2.5.4
+2022-04-11 13:10:52,519 [Worker-5: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:53,284 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/security/spring-security-config/5.5.6-SNAPSHOT/spring-security-config-5.5.6-SNAPSHOT-sources.jar
+2022-04-11 13:10:54,366 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/security/spring-security-config/5.5.6-SNAPSHOT/spring-security-config-5.5.6-SNAPSHOT-sources.jar
+2022-04-11 13:10:54,566 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.5.6-SNAPSHOT
+2022-04-11 13:10:54,570 [Worker-5: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 13:10:55,250 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/security/spring-security-web/5.5.6-SNAPSHOT/spring-security-web-5.5.6-SNAPSHOT-sources.jar
+2022-04-11 13:10:56,166 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/security/spring-security-web/5.5.6-SNAPSHOT/spring-security-web-5.5.6-SNAPSHOT-sources.jar
+2022-04-11 13:10:56,224 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.5.6-SNAPSHOT
+2022-04-11 13:10:57,165 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 13:10:57,165 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 13:10:57,166 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 13:10:57,167 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 13:10:57,169 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 13:10:57,169 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 13:10:57,169 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 13:43:23,572 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 13:43:23,572 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 13:43:23,573 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 13:43:23,573 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 13:43:23,575 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 13:43:23,575 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 13:43:23,575 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 14:34:53,985 [ForkJoinPool.commonPool-worker-27] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:142)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-04-11 15:55:27,682 [ForkJoinPool.commonPool-worker-1] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:142)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-04-11 15:55:31,484 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-11 15:55:41,556 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 15:55:41,564 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-11 15:55:41,572 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 15:55:41,573 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 15:57:26,545 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:57:26,547 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:57:26,554 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:57:26,555 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:43,495 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-11 15:58:44,254 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gabrielCode:DemoWeb:0.0.1-SNAPSHOT @ C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\pom.xml.
+2022-04-11 15:58:44,375 [Worker-4: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:44,377 [Worker-4: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:44,379 [Worker-4: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:44,381 [Worker-4: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:45,049 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoWeb/src/main/java
+2022-04-11 15:58:45,049 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoWeb/src/main/resources
+2022-04-11 15:58:45,050 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoWeb/src/main/resources
+2022-04-11 15:58:45,050 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoWeb/src/test/java
+2022-04-11 15:58:46,095 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-04-11 15:58:46,903 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:46,905 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:46,907 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:46,919 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:58:47,014 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 15:58:47,014 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 15:58:47,015 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 15:58:47,037 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 15:58:47,053 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 15:58:47,053 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 15:58:47,053 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 15:59:34,717 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-11 15:59:35,196 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gabrielCode:DemoWeb:0.0.1-SNAPSHOT @ C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\pom.xml.
+2022-04-11 15:59:35,328 [Worker-13: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:35,331 [Worker-13: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:35,333 [Worker-13: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:35,335 [Worker-13: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:35,814 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoWeb/src/main/java
+2022-04-11 15:59:35,814 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoWeb/src/main/resources
+2022-04-11 15:59:35,815 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoWeb/src/main/resources
+2022-04-11 15:59:35,816 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoWeb/src/test/java
+2022-04-11 15:59:36,145 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-11 15:59:37,262 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:37,264 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:37,266 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:37,267 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 15:59:37,353 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 15:59:37,354 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 15:59:37,355 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 15:59:37,390 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 15:59:37,396 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 15:59:37,396 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 15:59:37,396 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 16:00:42,818 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 16:00:42,818 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 16:00:42,820 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 16:00:42,820 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 16:00:42,822 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 16:00:42,822 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 16:00:42,823 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 16:01:18,638 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-11 16:01:25,091 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 16:01:25,099 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-04-11 16:01:25,107 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-11 16:01:25,109 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 16:01:52,243 [Worker-7: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 16:01:52,245 [Worker-7: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-config:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 16:01:52,252 [Worker-7: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 16:01:52,254 [Worker-7: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xmlfailed to transfer from https://repo.spring.io/snapshot during a previous attempt. This failure was cached in the local repository and resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.security:spring-security-web:5.5.6-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): The operation was cancelled.
+2022-04-11 16:03:36,982 [ForkJoinPool.commonPool-worker-3] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 31: file:/E:/Pablo/Downloads/Spring Tool 4/sts-4.14.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:142)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-04-11 16:08:43,338 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 16:08:43,338 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 16:08:43,339 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 16:08:43,370 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 16:08:43,378 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 16:08:43,378 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 16:08:43,378 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 16:08:44,233 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 16:08:44,234 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 16:08:44,234 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 16:08:44,240 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 16:08:44,243 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 16:08:44,243 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 16:08:44,243 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
+2022-04-11 17:15:26,470 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.GabrielCode:DemoConsola:0.0.1-SNAPSHOT @ C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\pom.xml.
+2022-04-11 17:15:26,971 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoConsola/src/main/java
+2022-04-11 17:15:26,972 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoConsola/src/main/resources
+2022-04-11 17:15:26,981 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoConsola/src/main/resources
+2022-04-11 17:15:26,990 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoConsola/src/test/java
+2022-04-11 17:15:27,246 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-04-11 17:15:27,248 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-11 17:15:27,832 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.GabrielCode:DemoConsola:0.0.1-SNAPSHOT @ C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\pom.xml.
+2022-04-11 17:15:28,222 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoConsola/src/main/java
+2022-04-11 17:15:28,224 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoConsola/src/main/resources
+2022-04-11 17:15:28,224 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DemoConsola/src/main/resources
+2022-04-11 17:15:28,225 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoConsola/src/test/java
+2022-04-11 17:15:28,515 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-11 17:15:29,370 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:15:29,370 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:15:29,371 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:15:29,376 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:15:29,378 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:15:29,378 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:15:29,379 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:16:08,568 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:16:08,568 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:16:08,571 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:16:08,588 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:16:08,593 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:16:08,593 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:16:08,593 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:19:09,290 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:19:09,291 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:19:09,292 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:19:09,295 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:19:09,302 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:19:09,303 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:19:09,303 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:20:03,408 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:20:03,409 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:20:03,410 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:20:03,414 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:20:03,416 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:20:03,416 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:20:03,416 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:29:56,122 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:29:56,123 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:29:56,123 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:29:56,130 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:29:56,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:29:56,138 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:29:56,138 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:32:03,765 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:32:03,766 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:32:03,766 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:32:03,771 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:32:03,773 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:32:03,774 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:32:03,774 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:32:32,119 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:32:32,120 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:32:32,120 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:32:32,124 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:32:32,129 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:32:32,129 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:32:32,129 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:33:34,501 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:33:34,501 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:33:34,502 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:33:34,505 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:33:34,513 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:33:34,513 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:33:34,513 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:34:03,701 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:34:03,701 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:34:03,701 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:34:03,704 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:34:03,707 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:34:03,707 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:34:03,707 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:35:11,017 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:35:11,017 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:35:11,018 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:35:11,024 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:35:11,026 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:35:11,026 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:35:11,026 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:36:59,875 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:36:59,875 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:36:59,876 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:36:59,879 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:36:59,881 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:36:59,881 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:36:59,882 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:37:31,641 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:37:31,641 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:37:31,642 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:37:31,647 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:37:31,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:37:31,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:37:31,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:38:51,841 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:38:51,841 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:38:51,842 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:38:51,847 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:38:51,849 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:38:51,849 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:38:51,850 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:43:36,000 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:43:36,001 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:43:36,001 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:43:36,007 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:43:36,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:43:36,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:43:36,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:43:37,629 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:43:37,629 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:43:37,629 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:43:37,634 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:43:37,636 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:43:37,636 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:43:37,636 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:46:15,667 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:46:15,667 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:46:15,668 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:46:15,672 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:46:15,674 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:46:15,674 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:46:15,675 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 17:51:44,770 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:51:44,770 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:51:44,771 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 17:51:44,776 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 17:51:44,778 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 17:51:44,778 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 17:51:44,778 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 18:50:50,703 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 18:50:50,704 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 18:50:50,704 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 18:50:50,712 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 18:50:50,714 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 18:50:50,714 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 18:50:50,714 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 18:51:00,154 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 18:51:00,154 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 18:51:00,155 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 18:51:00,166 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 18:51:00,168 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 18:51:00,168 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 18:51:00,169 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 18:51:03,594 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 18:51:03,595 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 18:51:03,595 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 18:51:03,599 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 18:51:03,604 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 18:51:03,604 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 18:51:03,604 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:04:38,646 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:04:38,647 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:04:38,647 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:04:38,652 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:04:38,654 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:04:38,654 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:04:38,655 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:05:29,599 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:05:29,599 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:05:29,600 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:05:29,605 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:05:29,608 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:05:29,608 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:05:29,608 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:09:30,388 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:09:30,388 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:09:30,389 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:09:30,394 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:09:30,396 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:09:30,396 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:09:30,396 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:18:29,719 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:18:29,719 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:18:29,720 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:18:29,731 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:18:29,734 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:18:29,734 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:18:29,734 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:21:06,486 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:21:06,486 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:21:06,487 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:21:06,496 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:21:06,500 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:21:06,500 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:21:06,500 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:22:51,560 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:22:51,561 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:22:51,561 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:22:51,565 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:22:51,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:22:51,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:22:51,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:23:29,364 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:23:29,364 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:23:29,365 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:23:29,370 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:23:29,372 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:23:29,372 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:23:29,372 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:27:21,859 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:27:21,859 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:27:21,860 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:27:21,864 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:27:21,867 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:27:21,867 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:27:21,867 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-11 19:29:40,808 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:29:40,809 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:29:40,810 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-11 19:29:40,816 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-11 19:29:40,818 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-11 19:29:40,818 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-11 19:29:40,818 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoConsola\src\test\resources
+2022-04-12 14:11:59,954 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 14:11:59,955 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 14:11:59,955 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-12 14:11:59,955 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-12 14:11:59,957 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-12 14:11:59,957 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-12 14:11:59,957 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Curso_Springbook_2022\Curso_SpringBootASAP_2022\DemoWeb\src\test\resources
