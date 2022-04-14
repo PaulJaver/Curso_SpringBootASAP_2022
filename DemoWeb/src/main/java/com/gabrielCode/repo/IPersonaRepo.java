@@ -1,4 +1,6 @@
-package com.gabrielCode.model;
+package com.gabrielCode.repo;
+
+
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

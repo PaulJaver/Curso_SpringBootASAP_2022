@@ -15,12 +15,13 @@ public class AlumnoDAO implements DAO {
 
 	private Connection conexion;
 	public AlumnoDAO() throws ClassNotFoundException, SQLException {
-	      ConnectionManager.conectar();
-	      conexion= ConnectionManager.getConection();
+	   
 	}
 	
 	public void agregar(Model pModel) throws ClassNotFoundException, SQLException {
-
+      ConnectionManager.conectar();
+	  conexion= ConnectionManager.getConection();
+		      
       StringBuilder sql = new StringBuilder("insert into alumnos (ALU_NOMBRE, ALU_APELLIDO, ALU_EMAIL, ");
     		                     sql.append("ALU_CONOCIMIENTOS, ALU_GIT)")
     		                        .append("values (?,?,?,?,?)");
@@ -36,6 +37,8 @@ public class AlumnoDAO implements DAO {
       
       stm.execute();
       
+      
+      ConnectionManager.desConectar(); 
 	}
 
 	public void modificar(Model pModel) throws ClassNotFoundException, SQLException {

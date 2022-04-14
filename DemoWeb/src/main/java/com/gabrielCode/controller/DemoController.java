@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.gabrielCode.model.IPersonaRepo;
+import com.gabrielCode.repo.IPersonaRepo;
 import com.gabrielCode.model.Persona;
 
 @Controller
@@ -16,7 +16,11 @@ public class DemoController {
   
   @GetMapping("/greeting")
   public String greeting(@RequestParam(name="name", required=false, defaultValue="World") String name, Model model) {
-	  Persona per = new Persona(1, "Gabriel Casas");
+	    if(name.endsWith("World")){ 
+	    	repo.delete(new Persona(2, "Gabriel Casas"));
+	        name="GabrielCode";
+      }
+	  Persona per = new Persona(0, "name");
 	  repo.save(per);
 	  
 	  model.addAttribute("name", name);
